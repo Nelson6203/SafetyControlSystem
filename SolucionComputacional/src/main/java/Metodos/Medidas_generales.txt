@@ -1,0 +1,66 @@
+-Medidas Generales
+Utiliza casco protector
+Utiliza lentes protectores
+Utiliza chaleco de seguridad
+Utiliza calzado de seguridad
+Utiliza guantes de seguridad
+-Riesgos carpintero
+Al trabajar en un area con herramientas y materiales peligrosos hay riesgo de sufrir algún accidente
+Al trabajar con madera hay riesgo de clavarse alguna astilla en el cuerpo
+Al usar el martillo, debe tomarse por la parte inferior del mango, y no por la superior
+Al trabajar con maquinas ruidosas hay riesgo de sufrir algún daño auditivo
+Al no utilizar casco hay riesgo de que si sucede algún accidente haya algún daño en la cabeza
+-Medidas especificas carpintero
+No utiliza relojes, pulseras, cadenas, anillos u objetos similares
+Utiliza protectores auditivos
+Utiliza mascarilla
+Utiliza protectores auditivos
+Utiliza ropa de seguridad
+-Riesgos electricista
+Podría sufrir una descarga eléctrica en su cuerpo
+Podría tropesarse con alguna herramienta que se encuentre en el lugar
+Dependiendo de la potencia de la corriente podría morir si es electrocutado
+Contacto con elementos cortantes y punzantes
+Tableros eléctricos sin tapas o conexiones con cables vivos
+-Medidas especificas electricista
+No trabajar con las manos húmedas
+Usar equipamiento aislante de electricidad
+No llevar objetos de metal mientras trabajas con electricidad
+Utilizar ropa ajustada para evitar contactos y caídas
+Usar mascarilla respiratoria
+-Riesgos peon
+Puede sufrir caidas si hay herramientas en el suelo
+Pueden sufrir fracturas debido a que pueden trabajar en las alturas
+Desgaste de la espalda baja al batir mezcla
+Podrían pisar tablas con tornillos
+Sufren caidas de materiales durante el transporte manual
+-Medidas especificas peon
+Utilizar sombrero para alivianar la fuerte luz solar
+Usar bloqueador solar para un mejor cuidado de la piel
+Usar ropa cómoda para así desplazarse mejor por el lugar
+Estar atento a nuestros pasos por posibles huecos
+Evitar zonas húmedas que puedan ocacionar caidas
+-Riesgos operador maquinaria
+Una mala antención de los equipos de trabajo podrían ocacionar algún accidente que atente con la salud del trabajador 
+Jornadas laborales extensas que afectan las horas de sueño del operador de maquinaria
+Volcamiento del equipo por condiciones de terrenos en pendientes o derrumbes en bordes de excavaciones
+Contacto con elementos calientes, como partes de motores o bombas
+Vibraciones y ruido en la operación
+-Medidas especificas operador maquinaria
+Bloqueador solar para la piel
+Avisar sobre las maniobras que se vayan a ejecutar con la maquinaria
+Apagar las maquinas cuando no se estén usando
+No permitir que personal no autorizado use las máquinas
+Siempre mirar alrededor por algún posible daño a otra persona
+-Riesgos soldador
+Puede sufrir quemadura
+Daños en la visión a largo plazo
+Pueden sufrir daños auditivos
+Pueden sufrir alguna descarga eléctrica
+Tropiezos que desestabilicen y ocacionen caidas
+-Medidas especificas soldador
+Equipamiento de un protector auditivo
+Equipamiento de gafas y máscara
+Equipamiento de mascarillas debido a humos mecanicos
+Equipamiento de un delantal de cuero
+Protector de espalda para mamtenerla recta en la medida de lo posible
